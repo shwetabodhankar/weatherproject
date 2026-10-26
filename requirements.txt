@@ -1,1 +1,5 @@
-# Add Python dependencies here, one per line.
+pandas>=2.2,<4
+matplotlib>=3.9,<4
+nbformat>=5.10,<6
+nbclient>=0.10,<1
+ipykernel>=6.29,<8

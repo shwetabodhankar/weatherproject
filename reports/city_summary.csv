@@ -1,0 +1,3 @@
+city,observed_days,observed_precipitation_sum_inches,mean_daily_precipitation_inches,wet_days,wet_day_percent,mean_wet_day_precipitation_inches
+Seattle,1636,182.99,0.11185207823960881,841,51.40586797066015,0.21758620689655173
+St. Louis,1636,219.17,0.13396699266503667,533,32.57946210268949,0.41120075046904314
